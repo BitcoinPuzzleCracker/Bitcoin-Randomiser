@@ -49,5 +49,29 @@ A live website is in development to display real-time scanning progress.
 
 The goal is to create a collaborative platform for puzzle-solving.
 
+1. When an External Participant Solves the Puzzle
+Solver (Winner): Receives 90% of the prize.
+
+Developer: Receives 10% (for maintenance/server costs).
+
+Other Contributors: Do not receive a share in this scenario.
+
+2. When the Developer Solves the Puzzle
+100% of the prize is distributed among all active contributors.
+
+Each contributor’s share is proportional to their scan count (e.g., if you performed 5% of total scans, you get 5% of the prize).
+
+Developer is treated as a regular contributor (receives a share based on their scans).
+
 Current Status
 The program is fully functional and optimized for Puzzle 71.
+
+More features (like the live tracking website) are coming soon.
+
+Support the Developer
+Donations are greatly appreciated and will help improve the project!
+
+BTC: bc1qshjmmq898m7mwceyr4qlk3vz0ptxue3yd8ux2y
+ETH: 0xA6BCdcD154e704f9fcEc2996A8c5ACc76C56A184
+
+If you’d like to contribute to the website and help speed up the process, your support is warmly welcome!
